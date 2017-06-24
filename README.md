@@ -12,7 +12,7 @@ Setup
 -----
 * **Prerequisites:**
     * Install JRE +8
-* Download latest release
+* Download latest <a href="https://github.com/hbekkouche/instaclient/releases">release</a>
 * Run
     * Windows or Mac or Linux
         * Double Click on jar File
