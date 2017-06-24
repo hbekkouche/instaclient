@@ -4,9 +4,7 @@ This simple client developed with JavaFx allows you to upload
 pictures or videos on Instagram on desktop.
 so that you don't need a smartphone.
 
-
-<img src="https://image.ibb.co/kPmnF5/c1.png" />
-<img src="https://image.ibb.co/mogyNk/c2.png" />
+<table><tr><td><img height="300" src="https://image.ibb.co/kPmnF5/c1.png" ></img></td><td><img height="300" src="https://image.ibb.co/mogyNk/c2.png" /></img></td></tr></table>
 
 Setup
 -----
